@@ -1,9 +1,9 @@
-version: 1.1.1
+version: 1.1.2
 files:
   - url: bioplayer2bis-x86_64.AppImage
-    sha512: DSjmeZvvwQI9Fin807kcKbhLi5moyoIY/D40ALvKIPakvAzRLAEgfCJAr74LG9BR02XhtVUDzB9n4KoS/o4maw==
-    size: 144420385
-    blockMapSize: 151093
+    sha512: mRZn9Jx10t5afP3WhjfdHUVMH3EYAFoOgBUAIxQk+33B3GfwPEVnFRXt4p8GKOPLg9lbV6VIW/mLGQ2SS4Tz5w==
+    size: 144420346
+    blockMapSize: 151054
 path: bioplayer2bis-x86_64.AppImage
-sha512: DSjmeZvvwQI9Fin807kcKbhLi5moyoIY/D40ALvKIPakvAzRLAEgfCJAr74LG9BR02XhtVUDzB9n4KoS/o4maw==
-releaseDate: '2024-11-22T07:49:31.879Z'
+sha512: mRZn9Jx10t5afP3WhjfdHUVMH3EYAFoOgBUAIxQk+33B3GfwPEVnFRXt4p8GKOPLg9lbV6VIW/mLGQ2SS4Tz5w==
+releaseDate: '2024-11-22T08:26:51.785Z'
